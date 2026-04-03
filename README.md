@@ -1,4 +1,4 @@
-# TikTok Algorithm Auditing Bot
+# TikTok Hashtag Scraper Bot
 
 Bu proje, TikTok'un öneri algoritmasını denetlemek, belirli etiketler (#iklimkrizi vb.) altındaki popüler videoları analiz etmek için geliştirilmiş bir otomatize veri toplama aracıdır.
 
